@@ -1,0 +1,13 @@
+close all;clear all;clc;
+load Vittone.mat;
+load VillaPetrofftl.mat;
+load VillaPetroffdr.mat;
+load masonJBC1999.mat;
+figure(1);errorbar(10.^Vittone(:,1),Vittone(:,2),Vittone(:,3),'o');
+figure(2);errorbar(10.^VillaPetroffdr(:,1),VillaPetroffdr(:,2),VillaPetroffdr(:,3),'o');
+figure(3);errorbar(VillaPetrofftl(:,1),VillaPetrofftl(:,2),VillaPetrofftl(:,3),'o');
+xlim([0 20]);ylim([0 20]);
+figure(5);errorbar(10.^masonGlynoGPP(:,1),masonGlynoGPP(:,2),masonGlynoGPP(:,3),'o');hold all;
+errorbar(10.^masonGlyGPP(:,1),masonGlyGPP(:,2),masonGlyGPP(:,3),'o');hold all;
+figure(6);errorbar(10.^masonArgnoGPP(:,1),masonArgnoGPP(:,2),masonArgnoGPP(:,3),'o');hold all;
+errorbar(10.^masonArgGPP(:,1),masonArgGPP(:,2),masonArgGPP(:,3),'o');hold all;
