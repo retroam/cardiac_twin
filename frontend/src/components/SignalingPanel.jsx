@@ -6,8 +6,8 @@ const PROTEIN_NODES = [
     label: "b1AR",
     pathwayId: "beta_adrenergic",
     shape: "ellipse",
-    x: 470,
-    y: 76,
+    x: 472,
+    y: 78,
     rx: 44,
     ry: 30
   },
@@ -16,8 +16,8 @@ const PROTEIN_NODES = [
     label: "bARK",
     pathwayId: "beta_adrenergic",
     shape: "ellipse",
-    x: 340,
-    y: 106,
+    x: 342,
+    y: 110,
     rx: 36,
     ry: 23
   },
@@ -26,8 +26,8 @@ const PROTEIN_NODES = [
     label: "Gsa",
     pathwayId: "beta_adrenergic",
     shape: "triangle",
-    x: 526,
-    y: 106,
+    x: 528,
+    y: 108,
     w: 66,
     h: 56,
     dy: 4
@@ -37,8 +37,8 @@ const PROTEIN_NODES = [
     label: "bg",
     pathwayId: "beta_adrenergic",
     shape: "ellipse",
-    x: 495,
-    y: 144,
+    x: 498,
+    y: 146,
     rx: 31,
     ry: 19
   },
@@ -47,7 +47,7 @@ const PROTEIN_NODES = [
     label: "Gsa",
     pathwayId: "beta_adrenergic",
     shape: "triangle",
-    x: 604,
+    x: 611,
     y: 108,
     w: 66,
     h: 56,
@@ -58,7 +58,7 @@ const PROTEIN_NODES = [
     label: "bg",
     pathwayId: "beta_adrenergic",
     shape: "ellipse",
-    x: 566,
+    x: 572,
     y: 146,
     rx: 31,
     ry: 19
@@ -68,8 +68,8 @@ const PROTEIN_NODES = [
     label: "AC",
     pathwayId: "beta_adrenergic",
     shape: "ellipse",
-    x: 690,
-    y: 88,
+    x: 696,
+    y: 90,
     rx: 42,
     ry: 28
   },
@@ -78,8 +78,8 @@ const PROTEIN_NODES = [
     label: "PKA",
     pathwayId: "calcium_handling",
     shape: "ellipse",
-    x: 579,
-    y: 205,
+    x: 578,
+    y: 214,
     rx: 36,
     ry: 24
   },
@@ -89,7 +89,7 @@ const PROTEIN_NODES = [
     pathwayId: "ion_channel_current",
     shape: "ellipse",
     x: 736,
-    y: 208,
+    y: 216,
     rx: 42,
     ry: 24
   },
@@ -98,8 +98,8 @@ const PROTEIN_NODES = [
     label: "PDE4",
     pathwayId: "ion_channel_current",
     shape: "ellipse",
-    x: 816,
-    y: 188,
+    x: 815,
+    y: 190,
     rx: 42,
     ry: 24
   },
@@ -108,8 +108,8 @@ const PROTEIN_NODES = [
     label: "IBMX",
     pathwayId: "ion_channel_current",
     shape: "ellipse",
-    x: 806,
-    y: 271,
+    x: 804,
+    y: 276,
     rx: 45,
     ry: 27
   },
@@ -118,8 +118,8 @@ const PROTEIN_NODES = [
     label: "PKI",
     pathwayId: "calcium_handling",
     shape: "ellipse",
-    x: 449,
-    y: 270,
+    x: 466,
+    y: 277,
     rx: 34,
     ry: 22
   },
@@ -128,8 +128,8 @@ const PROTEIN_NODES = [
     label: "PKA",
     pathwayId: "calcium_handling",
     shape: "ellipse",
-    x: 533,
-    y: 270,
+    x: 536,
+    y: 277,
     rx: 36,
     ry: 24
   },
@@ -138,7 +138,7 @@ const PROTEIN_NODES = [
     label: "r",
     shape: "ellipse",
     x: 620,
-    y: 267,
+    y: 273,
     rx: 16,
     ry: 14,
     dy: 5,
@@ -150,7 +150,7 @@ const PROTEIN_NODES = [
     pathwayId: "ion_channel_current",
     shape: "ellipse",
     x: 606,
-    y: 314,
+    y: 330,
     rx: 32,
     ry: 22
   },
@@ -160,7 +160,7 @@ const PROTEIN_NODES = [
     pathwayId: "ion_channel_current",
     shape: "ellipse",
     x: 802,
-    y: 314,
+    y: 330,
     rx: 44,
     ry: 24
   },
@@ -170,7 +170,7 @@ const PROTEIN_NODES = [
     pathwayId: "contractility",
     shape: "ellipse",
     x: 540,
-    y: 375,
+    y: 380,
     rx: 36,
     ry: 24
   },
@@ -179,8 +179,8 @@ const PROTEIN_NODES = [
     label: "PLB",
     pathwayId: "calcium_handling",
     shape: "ellipse",
-    x: 465,
-    y: 317,
+    x: 468,
+    y: 323,
     rx: 34,
     ry: 22
   },
@@ -189,8 +189,8 @@ const PROTEIN_NODES = [
     label: "SERCA",
     pathwayId: "calcium_handling",
     shape: "ellipse",
-    x: 377,
-    y: 330,
+    x: 382,
+    y: 334,
     rx: 47,
     ry: 24
   },
@@ -199,8 +199,8 @@ const PROTEIN_NODES = [
     label: "RyR",
     pathwayId: "calcium_handling",
     shape: "rect",
-    x: 327,
-    y: 293,
+    x: 322,
+    y: 296,
     w: 80,
     h: 52,
     r: 4
@@ -210,8 +210,8 @@ const PROTEIN_NODES = [
     label: "CaM",
     pathwayId: "calcium_handling",
     shape: "ellipse",
-    x: 360,
-    y: 426,
+    x: 356,
+    y: 436,
     rx: 36,
     ry: 24
   },
@@ -220,8 +220,8 @@ const PROTEIN_NODES = [
     label: "TnC",
     pathwayId: "contractility",
     shape: "ellipse",
-    x: 646,
-    y: 423,
+    x: 648,
+    y: 431,
     rx: 32,
     ry: 22
   },
@@ -230,78 +230,75 @@ const PROTEIN_NODES = [
     label: "TnI",
     pathwayId: "contractility",
     shape: "ellipse",
-    x: 775,
-    y: 423,
+    x: 774,
+    y: 431,
     rx: 32,
     ry: 22
   }
 ];
 
 const ACTIVATION_EDGES = [
-  "M470 20 L470 44",
-  "M374 104 C405 100 431 91 448 83",
-  "M503 88 C512 91 519 96 523 101",
-  "M482 102 C488 117 492 127 495 138",
-  "M559 108 L571 108",
-  "M637 104 C651 98 668 93 681 90",
-  "M710 65 L724 76",
-  "M688 116 C680 136 670 148 657 160",
-  "M648 170 C632 184 610 194 591 202",
-  "M575 228 C568 242 558 255 547 264",
-  "M589 226 C598 248 604 274 606 292",
-  "M563 282 C576 293 587 302 596 308",
-  "M506 281 C494 294 483 304 474 312",
-  "M560 284 C624 330 693 369 753 409",
-  "M394 424 C480 413 565 412 613 420",
-  "M416 323 C392 314 366 305 344 298",
-  "M332 319 C338 356 347 386 354 404",
-  "M612 223 C621 238 628 247 635 255"
+  "M472 22 L472 47",
+  "M376 110 C408 103 436 95 452 86",
+  "M505 92 C514 95 521 101 525 106",
+  "M486 104 C490 119 494 130 498 140",
+  "M562 108 L580 108",
+  "M644 106 C658 98 678 94 689 92",
+  "M725 58 L739 78",
+  "M695 120 C684 144 672 160 654 172",
+  "M650 181 C633 196 607 208 589 212",
+  "M674 176 C695 189 712 202 726 212",
+  "M677 170 C717 168 752 173 785 184",
+  "M575 237 C568 252 556 266 544 273",
+  "M566 288 C578 302 591 312 598 322",
+  "M508 286 C495 301 482 311 474 320",
+  "M638 340 C678 365 718 392 754 424",
+  "M402 433 C486 425 571 424 618 428",
+  "M418 329 C393 320 366 310 339 300",
+  "M332 321 C337 364 348 401 352 412",
+  "M610 232 C620 248 628 259 637 266"
 ];
 
 const INHIBITION_EDGES = [
   {
-    d: "M723 201 C704 188 682 176 664 168",
-    bar: { x1: 657, y1: 160, x2: 670, y2: 174 }
+    d: "M804 248 C808 229 814 211 815 198",
+    bar: { x1: 807, y1: 196, x2: 823, y2: 200 }
   },
   {
-    d: "M812 185 C757 164 702 152 664 151",
-    bar: { x1: 656, y1: 143, x2: 672, y2: 158 }
+    d: "M786 264 C769 246 753 232 744 223",
+    bar: { x1: 738, y1: 217, x2: 752, y2: 226 }
   },
   {
-    d: "M805 244 C810 226 815 211 817 196",
-    bar: { x1: 809, y1: 194, x2: 825, y2: 198 }
+    d: "M500 277 L514 277",
+    bar: { x1: 517, y1: 269, x2: 517, y2: 285 }
   },
   {
-    d: "M789 258 C770 241 754 228 744 219",
-    bar: { x1: 738, y1: 213, x2: 752, y2: 222 }
+    d: "M594 350 C580 365 565 375 550 379",
+    bar: { x1: 543, y1: 371, x2: 556, y2: 385 }
   },
   {
-    d: "M482 270 L507 270",
-    bar: { x1: 509, y1: 262, x2: 509, y2: 278 }
+    d: "M758 330 L642 330",
+    bar: { x1: 639, y1: 322, x2: 639, y2: 338 }
   },
   {
-    d: "M588 336 C575 352 560 365 548 372",
-    bar: { x1: 541, y1: 366, x2: 554, y2: 378 }
+    d: "M510 367 C495 349 482 336 474 327",
+    bar: { x1: 468, y1: 319, x2: 479, y2: 330 }
   },
   {
-    d: "M757 314 L640 314",
-    bar: { x1: 637, y1: 306, x2: 637, y2: 322 }
+    d: "M434 327 C418 328 406 329 394 331",
+    bar: { x1: 391, y1: 323, x2: 391, y2: 339 }
   },
   {
-    d: "M509 360 C492 343 480 330 470 322",
-    bar: { x1: 465, y1: 315, x2: 476, y2: 326 }
+    d: "M570 388 C650 402 705 416 744 428",
+    bar: { x1: 746, y1: 420, x2: 746, y2: 436 }
   },
   {
-    d: "M431 321 C417 322 405 324 391 326",
-    bar: { x1: 388, y1: 318, x2: 388, y2: 334 }
+    d: "M801 355 C798 382 792 406 783 423",
+    bar: { x1: 775, y1: 421, x2: 790, y2: 429 }
   },
   {
-    d: "M570 385 C648 400 705 412 744 420",
-    bar: { x1: 746, y1: 410, x2: 746, y2: 430 }
-  },
-  {
-    d: "M678 423 L742 423",
-    bar: { x1: 744, y1: 414, x2: 744, y2: 432 }
+    d: "M681 431 L742 431",
+    bar: { x1: 744, y1: 423, x2: 744, y2: 439 }
   }
 ];
 
@@ -321,17 +318,17 @@ const RED_ANNOTATIONS = [
   { text: "PDE4D", x: 860, y: 262 },
   { text: "PP1R1B", x: 629, y: 291 },
   { text: "PP1R1C", x: 629, y: 313 },
-  { text: "PP1R1A", x: 629, y: 350 },
-  { text: "PPP1CA", x: 427, y: 394 },
-  { text: "PPP1CB", x: 427, y: 416 },
-  { text: "PPP1CC", x: 427, y: 438 },
-  { text: "PLN", x: 498, y: 336 },
-  { text: "ATP2A2", x: 378, y: 357 },
+  { text: "PP1R1A", x: 628, y: 370 },
+  { text: "PPP1CA", x: 428, y: 401 },
+  { text: "PPP1CB", x: 428, y: 423 },
+  { text: "PPP1CC", x: 428, y: 445 },
+  { text: "PLN", x: 498, y: 346 },
+  { text: "ATP2A2", x: 380, y: 365 },
   { text: "RyR2", x: 310, y: 282 },
-  { text: "CALM1", x: 412, y: 427 },
-  { text: "CALM2", x: 412, y: 449 },
-  { text: "CALM3", x: 412, y: 471 },
-  { text: "TNNI3", x: 828, y: 425 }
+  { text: "CALM1", x: 410, y: 437 },
+  { text: "CALM2", x: 410, y: 459 },
+  { text: "CALM3", x: 410, y: 481 },
+  { text: "TNNI3", x: 834, y: 430 }
 ];
 
 function toPercent(value) {
@@ -442,11 +439,11 @@ export default function SignalingPanel({
           <text x="208" y="487" className="region-label">T-tubule</text>
           <text x="626" y="508" className="region-label">Myofilaments</text>
 
-          <text x="418" y="23" className="annotation-text">NE, ISO</text>
-          <text x="721" y="52" className="annotation-text">Fsk</text>
-          <text x="756" y="100" className="annotation-text">ATP5&apos;-AMP</text>
-          <text x="648" y="168" className="annotation-text">cAMP</text>
-          <text x="329" y="350" className="annotation-text sr-label">SR</text>
+          <text x="424" y="26" className="annotation-text">NE, ISO</text>
+          <text x="716" y="54" className="annotation-text">Fsk</text>
+          <text x="754" y="102" className="annotation-text">ATP5&apos;-AMP</text>
+          <text x="648" y="170" className="annotation-text">cAMP</text>
+          <text x="328" y="356" className="annotation-text sr-label">SR</text>
 
           {ACTIVATION_EDGES.map((pathD, index) => (
             <path key={`act-${index}`} d={pathD} className="edge-activation" markerEnd="url(#arrowhead)" />
